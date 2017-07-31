@@ -1,0 +1,9 @@
+How to run jmeter test cases.
+
+
+1.download apache jmeter 3 and install the same.
+2.Go to bin folder and click on jmeter.bat.
+3.jmeter opened and record the script.
+4.create a bat file to execute test cases.
+
+copy paste data to one file and give exetension as jmeter.bat files.
