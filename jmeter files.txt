@@ -1,0 +1,4 @@
+Y:
+cd "Y:\Projects\TestAutomationProgram\Tools\apache-jmeter-3.0\bin"
+jmeter -n -t "Y:\Projects\TestAutomationProgram\SiteCore\Scripts\BlueArrowUAT\DigitalSiteCoreBlueArrowUAT.jmx" -l "Y:\Projects\TestAutomationProgram\SiteCore\test.csv" -e -o "Y:\Projects\TestAutomationProgram\SiteCore\ReportBlueArrowUAT"
+@pause

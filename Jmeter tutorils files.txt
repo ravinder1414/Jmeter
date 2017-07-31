@@ -1,0 +1,13 @@
+to run test case without GUI mode
+
+Y:
+cd "Y:\Projects\TestAutomationProgram\Tools\apache-jmeter-3.0\bin"
+jmeter -n -t "Y:\Projects\TestAutomationProgram\SiteCore\DigitalSiteCoreUpdated.jmx" -l "Y:\Projects\TestAutomationProgram\SiteCore\test.csv" -e -o "Y:\Projects\TestAutomationProgram\SiteCore\Reportuser"
+@pause
+
+-------------To run test case without gui mode for loop forever---------
+
+in jmx files use start and end time to run scripts and use above mentioned commands.
+
+
+----------------------------------------------------
